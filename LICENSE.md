@@ -1,4 +1,4 @@
-
+smart Atlas VPN Extension | tracker-blocker + NAT-firewall is the best Atlas VPN extension, featuring tracker-blocker and NAT-firewall. Secure, fast, and optimized for privacy.
 
 
 
